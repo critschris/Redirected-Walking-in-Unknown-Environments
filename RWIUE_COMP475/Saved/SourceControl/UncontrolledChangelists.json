@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/farah/OneDrive/Desktop/Projects/475Project/Redirected-Walking-in-Unknown-Environments/RWIUE_COMP475/Content/Blueprints/BP_MyXRPawn.uasset",
+				"C:/Users/farah/OneDrive/Desktop/Projects/475Project/Redirected-Walking-in-Unknown-Environments/RWIUE_COMP475/Content/XRFramework/Blueprints/BP_XRGameMode.uasset",
+				"C:/Users/farah/OneDrive/Desktop/Projects/475Project/Redirected-Walking-in-Unknown-Environments/RWIUE_COMP475/Content/VRTemplate/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/farah/OneDrive/Desktop/Projects/475Project/Redirected-Walking-in-Unknown-Environments/RWIUE_COMP475/Content/VRTemplate/VRTemplateMap.umap",
+				"C:/Users/farah/OneDrive/Desktop/Projects/475Project/Redirected-Walking-in-Unknown-Environments/RWIUE_COMP475/Content/Input/IA_FreezeCamera.uasset",
+				"C:/Users/farah/OneDrive/Desktop/Projects/475Project/Redirected-Walking-in-Unknown-Environments/RWIUE_COMP475/Content/Input/IMC_RDIE5.uasset"
+			]
+		}
+	]
+}
