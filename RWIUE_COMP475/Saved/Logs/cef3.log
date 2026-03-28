@@ -1,27 +1,0 @@
-[48252:48056:0325/100628.334:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[48252:25192:0325/100628.387:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[48252:48056:0325/100628.409:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[48252:25192:0325/100630.488:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48252:25192:0325/100630.493:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48252:25192:0325/100630.497:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48252:25192:0325/100630.500:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\farah\OneDrive\Desktop\Projects\475Project\Redirected-Walking-in-Unknown-Environments\RWIUE_COMP475\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48252:26184:0325/100630.924:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48252:26184:0325/100630.926:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[45924:38836:0325/100632.178:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-482D1ACEA28B21A1D97F99AF576CFC3A will be ignored
-[48752:14484:0325/100635.518:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[48752:14484:0325/100635.519:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100635.519:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[48752:14484:0325/100635.519:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100636.185:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100636.186:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[48752:14484:0325/100636.186:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100636.190:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[48752:14484:0325/100645.936:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100648.928:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100649.149:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100649.680:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100657.927:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100659.255:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48752:14484:0325/100700.934:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[48752:14484:0325/100703.803:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[48252:48056:0325/105243.392:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
